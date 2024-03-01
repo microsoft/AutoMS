@@ -1,0 +1,1 @@
+sed -i 's@-lCUDA_cublas_device_LIBRARY-NOTFOUND@ @g' build/CMakeFiles/optixPathTracer.dir/link.txt
