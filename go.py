@@ -1363,7 +1363,6 @@ if __name__ == "__main__":
     )
     dst = gen_pos_from_endpoint([-6, 2.4, dst_size_i], [-1, 6.5, dst_size_j], -0.51)
 
-    door_buffer = get_doors(scene_folder, 45 / 180 * math.pi)
     channel = build_channel(
         src=src,
         dst=dst,
