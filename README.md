@@ -4,7 +4,6 @@
 
 This repository presents the software implementation of the paper <br/>
 > **[AutoMS: Automated Service for mmWave Coverage Optimization using Low-cost Metasurfaces](https://rui-chun.github.io/uploads/automs-final.pdf)**  
-> Ruichun Ma\*, Shicheng Zheng\*, Hao Pan, Lili Qiu, Xingyu Chen, Liangyu Liu, Yihong Liu, Wenjun Hu, Ju Ren    
 > *ACM International Conference on Mobile Computing and Networking (**MobiCom**), 2024* 
 >
 
@@ -203,18 +202,6 @@ Set `scene_folder` parameter for `build_channel`. `scene_folder` should be a fol
 - `<object_name>_<material type>.stl`: stl files of all objects in this scene. `<material type>` should be defined in `mat.txt`.
 
 
-### Citation
 
-If you found this repository useful, please consider citing the paper:
-
-```bibtex
-@inproceedings{ma2024automs,
-  author    = {Ruichun Ma, Shicheng Zheng, Hao Pan, Lili Qiu, Xingyu Chen, Liangyu Liu, Yihong Liu, Wenjun Hu, Ju Ren},
-  title     = {AutoMS: Automated Service for mmWave Coverage Optimization using Low-cost Metasurfaces},
-  booktitle = {ACM International Conference on Mobile Computing (MobiCom)},
-  year      = {2024},
-  doi       = {https://doi.org/10.1145/3636534.3649347},
-}
-```
 
 
