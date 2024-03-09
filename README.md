@@ -3,7 +3,7 @@
 ## What's this?
 
 This repository presents the software implementation of the paper <br/>
-> **[AutoMS: Automated Service for mmWave Coverage Optimization using Low-cost Metasurfaces](https://rui-chun.github.io/uploads/automs-final.pdf)**  
+> **[AutoMS: Automated Service for mmWave Coverage Optimization using Low-cost Metasurfaces](https://doi.org/10.1145/3636534.3649347)**  
 > *ACM International Conference on Mobile Computing and Networking (**MobiCom**), 2024* 
 >
 
