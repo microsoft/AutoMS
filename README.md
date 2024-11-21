@@ -2,6 +2,8 @@
 
 ## What's this?
 
+[UPDATE] We share the HFSS design file of our metasurface element design in `hardware/mmwave_rings_open_souce.aedt` (HFSS version: 2022R2)
+
 This repository presents the software implementation of the paper <br/>
 > **[AutoMS: Automated Service for mmWave Coverage Optimization using Low-cost Metasurfaces](https://rui-chun.github.io/uploads/automs-final.pdf)**\
 > Ruichun Ma\*, Shicheng Zheng\*, Hao Pan, Lili Qiu, Xingyu Chen, Liangyu Liu, Yihong Liu, Wenjun Hu, Ju Ren \
